@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentalDesing_Sorting_Algorithms", "ExperimentalDesing_Sorting_Algorithms\ExperimentalDesing_Sorting_Algorithms.csproj", "{B572860D-1AB0-4224-A9F0-7D7F5A0B4165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B572860D-1AB0-4224-A9F0-7D7F5A0B4165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B572860D-1AB0-4224-A9F0-7D7F5A0B4165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B572860D-1AB0-4224-A9F0-7D7F5A0B4165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B572860D-1AB0-4224-A9F0-7D7F5A0B4165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DBDC4A-4A5C-4053-9552-325A9A9FCFD5}
+	EndGlobalSection
+EndGlobal

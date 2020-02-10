@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExperimentalDesing_Sorting_Algorithms/1.0.0": {
+        "runtime": {
+          "ExperimentalDesing_Sorting_Algorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExperimentalDesing_Sorting_Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
